@@ -1,3 +1,5 @@
+print("**Prosty Kalkulator Dwóch Liczb**")
+
 liczba1 = float(input("Podaj pierwszą liczbę: "))
 liczba2 = float(input("Podaj drugą liczbę: "))
 

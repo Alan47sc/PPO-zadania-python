@@ -1,3 +1,5 @@
+print("**Konwerter Temperatur (Celsjusz <-> Fahrenheit)**")
+
 wybor = input("""Wybierz rodzaj konwersji: 
 C - Stopnie Celsjusza na Fahrenheita
 F - Stopnie Fahrenheita na Celsjusza

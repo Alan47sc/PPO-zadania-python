@@ -1,3 +1,5 @@
+print("Kalkulator Średniej Ocen")
+
 n = int(input("Podaj liczbę ocen do wprowadzenia: "))
 oceny = []
 
